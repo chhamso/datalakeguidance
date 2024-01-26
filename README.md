@@ -1,3 +1,3 @@
 # datalakeguidance
 
-# Prepared for Smithfield a while ago
+# Draft for Fortune 500 company
